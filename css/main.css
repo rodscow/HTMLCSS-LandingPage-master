@@ -11,4 +11,14 @@ section {display:flex;}
 .flex {display:flex;}
 .flex-column {flex-direction: column}
 .flex-one {flex: 1;}
+.align-center {align-items: center}
+.center {justify-content: center}
+.space-between {justify-content: space-between}
+.btn {cursor: pointer; border:0; padding: 6px 12px; border-radius: 3px; line-height: 1.4;}
+.btn-default {color:white; background-color: #faa541}
+.btn-primary {color:white; background-color:#364147}
+.form-control {display:block; padding:6px 12px; border:solid 1px #a0a0a0; color:#8598a2; line-height: 1.4;}
+.text-light {font-size: 30px; color: #101010;}
+.text-secondary {font-size: 30px; color: #faa541;}
+.text-primary {font-size: 16px; color: #364147;}
 /***************************************/
